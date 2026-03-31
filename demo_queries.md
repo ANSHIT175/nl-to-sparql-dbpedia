@@ -15,12 +15,3 @@ SELECT ?pm WHERE {
 
 ---
 
-### Query 2
-**Input:** What is the capital of India?
-
-**SPARQL:**
-```sparql
-SELECT ?capital WHERE {
-  dbr:India dbo:capital ?capital .
-}
-
