@@ -54,6 +54,17 @@ User Query (Natural Language)
 
 ---
 
+## 📌 Prototype Example
+
+Example Query:  
+"Who is the Prime Minister of India?"
+
+Generated SPARQL:
+SELECT ?pm WHERE {
+  ?pm dbo:office dbr:Prime_Minister_of_India .
+}
+
+---
 ## 🛠️ Tech Stack  
 
 - Python  
