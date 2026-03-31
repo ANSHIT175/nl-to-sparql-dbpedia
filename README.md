@@ -10,6 +10,19 @@ The goal of this project is to bridge the gap between human language and structu
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository:
+git clone https://github.com/ANSHIT175/nl-to-sparql-dbpedia.git
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run the project:
+python main.py
+
+---
+
 ## ❗ Problem Statement  
 Despite its rich and structured knowledge base, DBpedia remains difficult to use due to:
 
