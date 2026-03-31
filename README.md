@@ -105,14 +105,14 @@ SELECT ?pm WHERE {
 
 ## 📁 Project Structure
 
-
+```bash
 nl-to-sparql-dbpedia/
 │
-├── main.py # Entry point of the application
-├── convert_to_sparql.py # Logic to convert NL → SPARQL
-├── demo_queries.md # Example queries
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+├── main.py
+├── convert_to_sparql.py
+├── demo_queries.md
+├── requirements.txt
+└── README.md
 
 ---
 
