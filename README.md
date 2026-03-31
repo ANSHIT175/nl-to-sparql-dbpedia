@@ -103,13 +103,16 @@ SELECT ?pm WHERE {
 ---
 
 
-(3 backticks)
+## 🚀 Current Progress
+- Basic NL → SPARQL conversion working
+- Multiple queries supported
+- Improving accuracy and coverage
 
 ---
 
 ##
 
-```md
+
 ## 📁 Project Structure
 
 ```bash
