@@ -77,6 +77,19 @@ SELECT ?pm WHERE {
 
 ---
 
+## 📁 Project Structure
+
+
+nl-to-sparql-dbpedia/
+│
+├── main.py
+├── convert_to_sparql.py
+├── requirements.txt
+├── demo_queries.md
+└── README.md
+
+---
+
 ## 📅 Implementation Plan  
 
 - **Phase 1:** Research DBpedia ontology and SPARQL queries  
