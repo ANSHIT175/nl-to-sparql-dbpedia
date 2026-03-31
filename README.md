@@ -23,6 +23,18 @@ python main.py
 
 ---
 
+### Example Usage
+
+Enter your question:
+Who is the Prime Minister of India?
+
+Output:
+SELECT ?pm WHERE {
+  ?pm dbo:office dbr:Prime_Minister_of_India .
+}
+
+---
+
 ## ❗ Problem Statement  
 Despite its rich and structured knowledge base, DBpedia remains difficult to use due to:
 
