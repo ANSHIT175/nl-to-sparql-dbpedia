@@ -65,6 +65,7 @@ SELECT ?pm WHERE {
 }
 
 ---
+
 ## 🛠️ Tech Stack  
 
 - Python  
@@ -86,6 +87,14 @@ SELECT ?pm WHERE {
 - **Phase 6:** Testing, optimization, and documentation  
 
 ---
+## 🚀 Future Work
+
+- Improve NLP understanding using advanced LLMs
+- Add support for complex multi-hop queries
+- Enhance UI for better user interaction
+- Optimize query performance and execution time
+- Integrate real-time DBpedia endpoint querying
+
 
 ## 📊 Evaluation Metrics  
 
