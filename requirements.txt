@@ -1,0 +1,22 @@
+# Core Libraries
+flask==2.3.2
+requests==2.31.0
+
+# NLP & Text Processing
+nltk==3.8.1
+spacy==3.7.2
+
+# Data Handling
+pandas==2.1.0
+
+# API & Backend
+fastapi==0.103.0
+uvicorn==0.23.2
+
+# SPARQL Query Handling
+rdflib==7.0.0
+SPARQLWrapper==2.0.0
+
+# Optional (LLM / Future Scope)
+transformers==4.35.2
+torch==2.1.0
